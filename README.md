@@ -26,3 +26,7 @@
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 
+
+[linkedin]:https://www.linkedin.com/in/tatiana-br
+[Telegram]:https://t.me/bts_code
+
