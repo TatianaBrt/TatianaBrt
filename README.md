@@ -7,8 +7,8 @@
 - 💻 Front-end and Backend Development
 
 ### 🤝 Connect with me:
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img alt="Telegram" src="https://img.shields.io/badge/telegram-1DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
+<img alt="Telegram" src="https://img.shields.io/badge/telegram-1DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>&nbsp;
 
 
 ### 💻 Tech Stack:
