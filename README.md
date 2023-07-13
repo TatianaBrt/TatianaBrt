@@ -2,4 +2,12 @@
 
 ### Hi all, I'm Tatiana 👋 <img align="right" src="https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Yauhen" />
 
-## I'm a Developer, Teacher and Mentor!
+## I'm a  Developer
+- 📍 I’m from Moscow,Russia
+- 💻 Front-end and Backend Development
+
+### 🤝 Connect with me:
+[<img alt="brt | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="brt | Telegram" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][telegram]
+
+
